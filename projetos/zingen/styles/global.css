@@ -96,6 +96,11 @@ ul[role="list"] {
     list-style: none;
 }
 
+img {
+    max-width: 100%;
+    display: inline-block;
+}
+
 @media (width >= 80em) { /* configuração de responsividade de telas, saindo de pelas de 375px para 1080px */
     :root {
         --fs-lg: 2rem;
