@@ -1,0 +1,1 @@
+Usar o "strict mode" no inicio do JS para evitar erros
